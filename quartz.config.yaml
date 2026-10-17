@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: mendeviancrusaders.github.io/quartz
+  baseUrl: mendeviancrusaders/
   ignorePatterns:
     - private
     - templates
