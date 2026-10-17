@@ -3,6 +3,6 @@ title: Terendelev
 draft: false
 tags:
 password: The Festival of Light
-unlisted: true
+unlisted: false
 ---
 Terendelev is a silver dragon.
