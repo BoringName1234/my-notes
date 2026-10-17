@@ -1,6 +1,7 @@
 ---
-title: How to publish Obsidian notes with Quartz on GitHub Pages
+title: Test
 draft: false
 tags:
   - Test
 ---
+**Markdown?**
