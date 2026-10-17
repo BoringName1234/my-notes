@@ -1,8 +1,8 @@
 ---
-title: "How to publish Obsidian notes with Quartz on GitHub Pages"
+title: Demon Lords
 draft: false
 tags:
-  - 
+  -
 ---
 
 This is an %%inline%% comment.
