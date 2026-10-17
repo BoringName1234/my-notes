@@ -1,7 +1,7 @@
 ---
-title: How to publish Obsidian notes with Quartz on GitHub Pages
+title: Password Unlock One
 draft: false
 tags:
   - 
-unlisted:
+unlisted: true
 ---
