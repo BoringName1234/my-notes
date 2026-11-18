@@ -1,0 +1,5 @@
+https://redcap.press/encounters?saved=eyJtb25zdGVycyI6eyJOb25TUkQtNWUxNC1idWxlemF1IjoxLCJrcC10b2IzLWRlbW9uLWluY2l0ZXIiOjF9LCJwYXJ0eSI6eyJzaXplIjo0LCJsZXZlbCI6M30sImFsbHlJZHMiOltdLCJsb2NrSWRzIjpbXSwiaWdub3JlZElkcyI6W10sImVkaXRpb24iOiI1ZTI0IiwiY3VzdG9tcyI6e319
+
+https://5e.tools/bestiary/bulezau-mtf.html
+
+https://www.5esrd.com/database/creature/demon-inciter

@@ -1,0 +1,1 @@
+Sets dex to 18 for 1 hour.

@@ -1,0 +1,1 @@
+https://www.dndbeyond.com/magic-items/9228357-bag-of-tricks
