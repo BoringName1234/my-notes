@@ -1,5 +1,5 @@
 ---
-title: DM Notes
+title: Session 2
 draft: false
 tags:
   -
@@ -14,3 +14,7 @@ When Elric touched the angel's sword, the lingering spirit of the angel granted 
 	But when we encountered the demons they were far more organized than the chaotic mass we encountered in the First Crusade. We were led into an ambush, where demons rained curses and corruptive magicks on our host.
 	I led those who survived back to Kenabres, but we were rejected for the corruption had tainted our bodies. I led my people deep underground, to shelter them from the fear of the people above.	
 	Please save them. Please.
+
+The sword released Elric from the vision, and the remaining celestial energy spread throughout the room, soaking into the adventurers and leaving them with a slight tingle in their body.
+
+The group then moved the boulders and moved further into the dark tunnels.
